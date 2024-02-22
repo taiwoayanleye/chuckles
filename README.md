@@ -7,3 +7,4 @@ Hear babies chuckle.
 ## Roadmap
 * Move audio to js
 * Provide instruction
+* Improve responsiveness
