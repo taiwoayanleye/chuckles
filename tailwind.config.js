@@ -4,10 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "primary-color": "#CC2936",
-        "secondary-color": "#85FFC7",
-        "hover-color": "#E06771",
+        "primary-orange": "#CC2936",
+        "secondary-orange": "#85FFC7",
+        "hover-orange": "#E06771",
       },
+      animation: [],
     },
   },
   plugins: [],

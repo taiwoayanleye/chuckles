@@ -19,11 +19,13 @@ function playAudioAndAnimate(audioId, letterId) {
 // Add pulse animation to an element
 function addPulseAnimation(element) {
   element.classList.add("animate-pulse");
+  console.log(element);
 }
 
 // Remove pulse animation from an element
 function removePulseAnimation(element) {
   element.classList.remove("animate-pulse");
+  console.log(element);
 }
 
 // Handle keyboard events
